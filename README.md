@@ -10,7 +10,7 @@ Web_Dev | Tools
 :-------| -----
 - [ ] Web Host **|** GitHub Pages
 - [ ] Domain **|** *UNKNOWN*
-- [ ] Coding Path **|** HTML, CSS, React, JavaScript, SQL, Jekyll, Ruby, (Review project path [here]())
+- [ ] Coding Path **|** HTML, CSS, React, JavaScript, SQL, Jekyll, Ruby, Solidity, (Review project path [here]())
 - [ ] Text editor **|** JetBrains
 - [x] REPO **|** In-Progress
 
